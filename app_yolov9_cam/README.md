@@ -62,7 +62,7 @@ The following is an example using YOLOv9-t.
 
 ```bash
 python3 compile_onnx_model_quant.py \
-$TVM_ROOT/convert/output/convert/output/yolov9-t_wongkinyiu_onnx/yolov9-t_cut.onnx \
+$TVM_ROOT/convert/output/yolov9-t_wongkinyiu_onnx/yolov9-t_cut.onnx \
 -o yolov9_cam \
 -t $SDK \
 -d $TRANSLATOR \

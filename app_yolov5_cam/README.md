@@ -1,4 +1,4 @@
-# Object Ultralytics: YOLOV5
+# Object Detection: YOLOV5
 
 ## Build the application
 
